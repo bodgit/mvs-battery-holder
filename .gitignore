@@ -1,0 +1,6 @@
+*.bak
+*.drl
+*.gbr
+*.kicad_pcb-bak
+/fp-info-cache
+.DS_Store
